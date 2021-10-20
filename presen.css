@@ -1,0 +1,38 @@
+
+body{
+    background-image: url(fondoazul.jpg);
+    background-size: 100%;
+    font-family: "monaco", sans-serif;
+}
+header #menu ul li{
+    display: inline-block;
+    vertical-align: middle;
+    background-color: rgba(100, 148, 237, 0.397);
+    border: 0;
+    border-radius: 8px;
+    font-size: 24px;
+    padding: 12px 20px;
+    cursor: pointer;
+}
+
+a{
+    color:rgb(249, 249, 250);
+    text-decoration: none;
+    
+}
+
+#main-cointainer header main {
+margin: 0 auto;
+width: 990px;
+}
+
+#main-cointainer header main div{
+    display:inline-block;
+    vertical-align:middle;
+}
+#main-cointainer header main .texto img{
+ margin: 20px 100px;
+}
+#main-cointainer header main .imagenes img{
+    margin: 130px 140px;
+   }
